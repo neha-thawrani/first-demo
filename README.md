@@ -1,3 +1,3 @@
 # first-demo
 This is my first github repository <br>
-Author - Neha Thawrani
+Author - Neha Thawrani Amravati
